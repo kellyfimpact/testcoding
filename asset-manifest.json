@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/testcoding/static/js/main.aa8a59dc.js",
-    "index.html": "/testcoding/index.html",
-    "main.aa8a59dc.js.map": "/testcoding/static/js/main.aa8a59dc.js.map"
+    "main.js": "/movie-app/static/js/main.aa8a59dc.js",
+    "index.html": "/movie-app/index.html",
+    "main.aa8a59dc.js.map": "/movie-app/static/js/main.aa8a59dc.js.map"
   },
   "entrypoints": [
     "static/js/main.aa8a59dc.js"
